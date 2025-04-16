@@ -1,0 +1,299 @@
+(footprint "HRS_U.FL-R-SMT_10_DS"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "U.FL Series 50 Ohm Receptacle Male Pins Ultra Small SMT Coaxial Connector")
+	(property "Reference" "REF**"
+		(at 0.039915 -3.411835 0)
+		(layer "F.SilkS")
+		(uuid "edccdd7b-b065-47e7-a906-99c2108c2487")
+		(effects
+			(font
+				(size 0.801331 0.801331)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "HRS_U.FL-R-SMT_10_DS"
+		(at 6.64582 3.09284 0)
+		(layer "F.Fab")
+		(uuid "87c6f8fa-568b-4cd3-a1f9-669aa32b48c7")
+		(effects
+			(font
+				(size 0.80022 0.80022)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f74345e-14b3-4a97-9f65-c4e7bf1fb9fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9fd9334-8b35-4c96-bca7-babef9a1fb6e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.42 -1.3)
+		(end -1.42 -0.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "012467ee-e2ee-47e3-bf35-b1172368da2b")
+	)
+	(fp_line
+		(start -1.42 0.75)
+		(end -1.42 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d729a07-30d2-4bfc-9b40-d177e7777b2a")
+	)
+	(fp_line
+		(start 1.42 -1.3)
+		(end 1.42 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2c4630e3-2b7f-448f-8fab-d13cc5c121ea")
+	)
+	(fp_circle
+		(center -2.5 0)
+		(end -2.425 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "ae1b33ca-774c-44a8-8595-505d48743f5f")
+	)
+	(fp_line
+		(start -2.3 -2.25)
+		(end 1.55 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "81ec0a86-4768-46e6-ad40-e97276fede76")
+	)
+	(fp_line
+		(start -2.3 2.25)
+		(end -2.3 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a2940805-b702-4dd9-831c-5eb6be0877e0")
+	)
+	(fp_line
+		(start 1.55 -2.25)
+		(end 1.55 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4ca9484d-1454-4490-ac43-5a32c0ba51fc")
+	)
+	(fp_line
+		(start 1.55 2.25)
+		(end -2.3 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0aac65f8-a207-4130-bb9f-0747b251b5a9")
+	)
+	(fp_line
+		(start -1.3 -1.3)
+		(end -1.3 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "93785f13-e0ba-4804-87b4-3b72dbe10ab3")
+	)
+	(fp_line
+		(start 1.3 -1.3)
+		(end -1.3 -1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "42e14fef-1f30-4eb6-87cd-1f1b1e4e7994")
+	)
+	(fp_line
+		(start 1.3 -1.3)
+		(end 1.3 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "96a422ae-606a-4fda-a387-1b47040c874b")
+	)
+	(fp_line
+		(start 1.3 1.3)
+		(end -1.3 1.3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db50247a-1706-4d75-9a75-7452a4a12662")
+	)
+	(fp_circle
+		(center -2.5 0)
+		(end -2.425 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "185387aa-94ac-4f93-a3f6-7f09c6b5b8de")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.3 0)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "00d8792f-d550-4e5e-a64f-efdc0484c355")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fd24e31e-2b71-4af0-a2c7-29363d05c5b0")
+	)
+	(pad "1" smd rect
+		(at -1.525 0)
+		(size 1.05 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "9d9cbc37-ae4d-419d-8ddf-19e23c4027ef")
+	)
+	(pad "2" smd rect
+		(at 0 -1.475)
+		(size 2.2 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "30a794b6-7862-4896-b6f6-04208ff4a670")
+	)
+	(pad "3" smd rect
+		(at 0 1.475)
+		(size 2.2 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "590baf64-b97a-4d18-9be9-9c1092a4ebac")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.Cu")
+		(uuid "d63e4119-7408-4509-bc71-7b36ffa89120")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks not_allowed)
+			(vias not_allowed)
+			(pads not_allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1 -0.95) (xy 1.3 -0.95) (xy 1.3 0.95) (xy -1 0.95)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu"
+			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
+			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
+			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
+			"In29.Cu" "In30.Cu"
+		)
+		(uuid "476eb4ef-b970-46b8-827f-123421b4bc0d")
+		(hatch full 0.508)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.01)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.508)
+			(thermal_bridge_width 0.508)
+		)
+		(polygon
+			(pts
+				(xy -1 -0.95) (xy 1.3 -0.95) (xy 1.3 0.95) (xy -1 0.95)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
