@@ -1,5 +1,4 @@
-# Flight_Controller
--------------------
+## Flight_Controller
 # Objective:
 Purpose of this project is to develop an autonomous flying wing that will fly waypoint
 missions. I am designing and building everything myself including electrical schematics,
