@@ -1,4 +1,4 @@
-24768733690775362
+24773968556952052
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65863,6 +65863,20 @@ CL31B104KBCNNNC
 2
 2
 Library
+01uF_Cap_0603
+
+CL10B104KA8NNNC 
+0
+2
+2
+Library
+2.2uF_CAP_0603
+
+CL10B225KP8NNNC 
+0
+2
+2
+Library
 3.3Buck
 
 
@@ -65880,6 +65894,13 @@ Library
 10kResistor
 
 RC1206FR-0710KL 
+0
+2
+2
+Library
+10nF_Cap_0603
+
+CL10B103KB8NNNC 
 0
 2
 2
