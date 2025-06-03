@@ -1,4 +1,4 @@
-24773968556952052
+24780963724198863
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65884,6 +65884,13 @@ Library
 6
 6
 Library
+3.3V-LDO (2)
+
+BD33IA5WEFJ-E2 
+0
+9
+9
+Library
 3_3_Inductor
 
 DR73-3R3-R 
@@ -65932,6 +65939,27 @@ ECS-80-18-33-JGN-TR
 0
 4
 4
+Library
+Current-Limiter-500mA (1)
+
+MIC2004-0.5YM5-TR 
+0
+5
+5
+Library
+ESD_6V
+
+GSECA5B003 
+0
+2
+2
+Library
+ESD_6V (3)
+
+GSECA5B003 
+0
+2
+2
 Library
 HRS_U.FL-R-SMT_10_DS
 U.FL Series 50 Ohm Receptacle Male Pins Ultra Small SMT Coaxial Connector
