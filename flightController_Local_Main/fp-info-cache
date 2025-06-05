@@ -1,4 +1,4 @@
-24780963724198863
+24784461632754360
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65967,6 +65967,20 @@ U.FL Series 50 Ohm Receptacle Male Pins Ultra Small SMT Coaxial Connector
 0
 3
 3
+Library
+Ideal_diode (2)
+
+LM66100DCKR 
+0
+6
+6
+Library
+Magnetometer
+
+LIS3MDLTR 
+0
+12
+12
 Library
 QFP50P1600X1600X160-100N
 
