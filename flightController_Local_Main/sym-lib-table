@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "Current-Limiter-500mA (1)")(type "KiCad")(uri "C:/Users/dylan/OneDrive/Documents/Learning/Components/Current-Limiter-500mA (1).kicad_sym")(options "")(descr ""))
+  (lib (name "SX1281IMLTRT")(type "KiCad")(uri "C:/Users/dylan/OneDrive/Documents/Learning/Components/SX1281IMLTRT.kicad_sym")(options "")(descr ""))
+  (lib (name "Tranny_OSC")(type "KiCad")(uri "C:/Users/dylan/OneDrive/Documents/Learning/Components/Tranny_OSC.kicad_sym")(options "")(descr ""))
 )

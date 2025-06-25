@@ -1,4 +1,4 @@
-24784461632754360
+24800215750777900
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65877,6 +65877,13 @@ CL10B225KP8NNNC
 2
 2
 Library
+3.0nH_Inductor
+
+
+0
+2
+2
+Library
 3.3Buck
 
 
@@ -65891,9 +65898,23 @@ BD33IA5WEFJ-E2
 9
 9
 Library
+3.3uH_3.94A
+
+DR74-3R3-R 
+0
+2
+2
+Library
 3_3_Inductor
 
 DR73-3R3-R 
+0
+2
+2
+Library
+4.7uH_7.18A
+
+
 0
 2
 2
@@ -65912,9 +65933,23 @@ CL10B103KB8NNNC
 2
 2
 Library
+10nH_Inductor
+
+LQG15HS10NJ02D 
+0
+2
+2
+Library
 10uF_cap
 
 CL31A106KBHNNNE 
+0
+2
+2
+Library
+15uH_Inductor
+
+
 0
 2
 2
@@ -66010,6 +66045,20 @@ TESEO-LIV3F
 18
 18
 Library
+TPS22944 (2)
+
+TPS22944DCKR 
+0
+5
+5
+Library
+Tranny_OSC
+
+
+0
+4
+4
+Library
 U.FL_CONN_v.UL
 
 U.FL-R-SMT10 
@@ -66031,6 +66080,13 @@ Untitled
 0
 0
 Library
+XCVR_SX1281IMLTRT
+
+
+0
+25
+25
+Library
 XDCR_DPS368XTSA1
 
 
@@ -66044,6 +66100,13 @@ XDCR_ICM-42670-P
 0
 14
 14
+Library
+XT60-M
+
+
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
